@@ -1,0 +1,156 @@
+body{
+    background-color: #F2F4F8;
+
+}
+.prefondo{
+    background-color: #FFFFFF;
+    margin: 10px 10px 0px 20px;
+    margin-right: 20px;
+    padding: 10px;
+    display: flex; /* Hace que h1 y nav esten en la misma linea */
+    align-items: center; /* Alineacion vertical */
+    border-radius: 15px;
+
+}
+
+h1{
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+a{
+    margin-left: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    color:black;
+}
+a:hover{
+    color: #3f3f41a2;
+}
+
+.opciones{
+    margin-left: 480px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 25px
+
+}
+
+
+.info{
+    background-color: #FFFFFF;
+    margin: -20px 10px 10px 20px;
+    margin-right: 20px;
+    padding: 10px;
+    border-radius: 15px;
+    border-top: 2px solid #BDB6B6; /*Borde arriba*/
+    display: flex;
+
+}
+
+.fotokevin{
+    width: 250px;
+    height: 250px;
+    border-radius: 200px;
+    margin-left: 5%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2{
+    margin-left: 50px;
+    font-size: 50px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    color: #007C91;
+}
+
+.profesion{
+    margin-left: 50px;/*de la foto al otro lado*/
+    margin-bottom: 10px;
+    margin-top: 10px;
+    color:#33B6C3;
+    
+}
+
+
+.mi_descripcion{
+    margin: 16px;
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-right: 5%;
+}
+
+.Ademas{
+    background-color: #FFFFFF;
+    border-radius: 15px;
+    margin: -40px 10px 10px 20px;
+    margin-right: 20px;
+    display: flex;
+    align-items: center;
+    
+
+}
+
+.titulofortalezas{
+    margin-top: 25px;
+    color: #33B6C3;
+    margin-right: 20px;
+    margin-left: 5%;
+
+}
+
+.Ademasfortaleza{
+    margin-left: 5%;
+    
+}
+
+.tituloobjetivo{
+    margin-top: 25px;
+    color: #33B6C3
+
+}
+
+.Ademasobjetivo{
+    margin-right: 5%;
+}
+
+.boton{
+    background-color: #FFFFFF;
+    border-radius: 15px;
+    margin: -40px 10px 10px 20px;
+    margin-right: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.tituloexperiencia{
+    margin-top: 25px;
+    margin-left: 5%;
+    color: #33B6C3;
+}
+
+.Ademasexperiencia{
+    margin-left: 5%;
+    margin-right: 20%;
+}
+
+.descargarcv{
+    margin-top: 20px;
+    margin-right: 30%;
+    text-align: center;
+    background-color: #007C91;
+    border-radius: 30px;
+    padding-right: 15px;
+    white-space: nowrap;
+}
+
+.boton-cv{
+    color: #FFFFFF;
+}
+
+
+
+
+
